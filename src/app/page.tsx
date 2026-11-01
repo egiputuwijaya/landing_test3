@@ -20,7 +20,7 @@ export default function Home() {
       <AirQualitySection />
       <StrategicSectors />
       <AppDownloadSection />
-      <script src="http://localhost:3000/embed.js" async></script>
+      <script src="https://chatbot-bmkg.vercel.app/embed.js" async></script>
       <FaqSection />
       <Footer />
     </main>
